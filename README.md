@@ -12,6 +12,8 @@ Purpose
   
   These are all human-observable weather and phenology variables that can be reported and then processed by language-based AI, rather than numerical sensor data.
 
+  This project is a support tool, not a replacement for professional systems.
+
 
 Core Features
 
