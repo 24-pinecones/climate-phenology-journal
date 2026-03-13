@@ -15,42 +15,42 @@ Purpose
 
 Core Features
 
-  Fast, simple observation entry
-  Offline‑first design (critical for rural and remote areas)
-  Cloud‑based long‑term archive
-  Cross‑platform (iOS, Android, Windows, Mac)
-  AI‑ready architecture
+  Fast, simple observation entry,
+  Offline‑first design (critical for rural and remote areas),
+  Cloud‑based long‑term archive,
+  Cross‑platform (iOS, Android, Windows, Mac),
+  AI‑ready architecture,
   Open collaboration model
 
 Observation Types
 
 Weather
   
-  Wind direction (8‑point compass)
-  Wind force (Beaufort scale)
-  Cloud cover (0–8 octas)
-  Precipitation type + amount
-  Snowfall (cm)
-  Snow on ground (cm)
-  Snowpack
-  Surface condition
-  Crust layers
-  Weak layers
+  Wind direction (8‑point compass),
+  Wind force (Beaufort scale),
+  Cloud cover (0–8 octas),
+  Precipitation type + amount,
+  Snowfall (cm),
+  Snow on ground (cm),
+  Snowpack,
+  Surface condition,
+  Crust layers,
+  Weak layers,
 
 Seasonal Markers
  
-  Percent snow cover
-  First frost
-  Last frost
-  Snow‑gone date
-  First snowfall
+  Percent snow cover,
+  First frost,
+  Last frost,
+  Snow‑gone date,
+  First snowfall,
 
 Phenology
 
-  Grass stages
-  Tree stages (deciduous + coniferous)
-  Wildflower first bloom dates
-  Region‑specific species or indicators
+  Grass stages,
+  Tree stages (deciduous + coniferous),
+  Wildflower first bloom dates,
+  Region‑specific species or indicators,
 
 Field Notes
  
@@ -84,45 +84,45 @@ Each observation includes:
 
 Metadata
 
-  entry_id
-  user_id
-  timestamp
-  location_lat
-  location_lon
-  location_name (optional)
+  entry_id,
+  user_id,
+  timestamp,
+  location_lat,
+  location_lon,
+  location_name (optional),
 
 Weather
 
-  wind_direction
-  wind_force_beaufort
-  cloud_octas
-  precip_type
-  precip_amount_mm
-  snowfall_cm
-  snow_on_ground_cm
+  wind_direction,
+  wind_force_beaufort,
+  cloud_octas,
+  precip_type,
+  precip_amount_mm,
+  snowfall_cm,
+  snow_on_ground_cm,
 
 
 Snowpack
 
-  snow_surface_condition
-  snowpack_crust_layers
-  snowpack_weak_layers
-  snowpack_notes
+  snow_surface_condition,
+  snowpack_crust_layers,
+  snowpack_weak_layers,
+  snowpack_notes,
 
 Seasonal Markers
 
-  percent_snow_cover
-  first_frost_date
-  last_frost_date
-  snow_gone_date
+  percent_snow_cover,
+  first_frost_date,
+  last_frost_date,
+  snow_gone_date,
   first_snowfall_date
 
 Phenology
 
-  grass_stage
-  deciduous_stage
-  coniferous_stage
-  wildflower_first_bloom (dictionary keyed by species)
+  grass_stage,
+  deciduous_stage,
+  coniferous_stage,
+  wildflower_first_bloom (dictionary keyed by species),
 
 Field Notes
 
@@ -130,32 +130,32 @@ notes
 
 Why This Matters
 This project supports:
-  Wildfire awareness and prevention
-  Agricultural planning
-  Research and long‑term climate studies
-  Emergency services
-  Indigenous knowledge and land stewardship
-  Citizen science
+  Wildfire awareness and prevention,
+  Agricultural planning,
+  Research and long‑term climate studies,
+  Emergency services,
+  Indigenous knowledge and land stewardship,
+  Citizen science,
   Environmental education
 
 A shared tool benefits everyone.
 
 How to Contribute
   We welcome contributions from:
-  Developers
-  Designers
-  Ecologists
-  Fire behaviour specialists
-  Researchers
-  Educators
-  Citizen scientists
-  Agencies and NGOs
+  Developers,
+  Designers,
+  Ecologists,
+  Fire behaviour specialists,
+  Researchers,
+  Educators,
+  Citizen scientists,
+  Agencies and NGOs,
 
 Ways to get involved:
-  Open an Issue
-  Submit a Pull Request
-  Share ideas or feedback
-  Help shape the data model
+  Open an Issue,
+  Submit a Pull Request,
+  Share ideas or feedback,
+  Help shape the data model,
   Join discussions about features and design
 
 This is a public‑good project — open, collaborative, and built for any region.
