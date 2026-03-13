@@ -29,6 +29,7 @@ Weather
   Wind direction (8‑point compass),
   Wind force (Beaufort scale),
   Cloud cover (0–8 octas),
+  Cloud type name + convective or layer
   Precipitation type + amount,
   Snowfall (cm),
   Snow on ground (cm),
@@ -96,6 +97,7 @@ Weather
   wind_direction,
   wind_force_beaufort,
   cloud_octas,
+  Cloud type name + convective or layer
   precip_type,
   precip_amount_mm,
   snowfall_cm,
