@@ -164,5 +164,15 @@ Ways to get involved:
 
 This is a public‑good project — open, collaborative, and built for any region.
 
-License
-Open‑source license to be selected (MIT, Apache 2.0, or similar).
+## License
+
+This project is licensed under the **Apache License 2.0**.
+
+We chose Apache 2.0 because it is a permissive, collaboration‑friendly license that:
+
+- supports contributions from corporations, agencies, and institutions  
+- includes explicit patent protection  
+- provides clear legal safety for emergency services, wildfire agencies, and researchers  
+- encourages long‑term, public‑good use  
+
+You are free to use, modify, and build upon this project under the terms of the license.
