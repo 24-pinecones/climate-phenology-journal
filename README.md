@@ -141,6 +141,7 @@ This project supports:
 A shared tool benefits everyone.
 
 How to Contribute
+
   We welcome contributions from:
   Developers,
   Designers,
@@ -152,6 +153,7 @@ How to Contribute
   Agencies and NGOs,
 
 Ways to get involved:
+
   Open an Issue,
   Submit a Pull Request,
   Share ideas or feedback,
