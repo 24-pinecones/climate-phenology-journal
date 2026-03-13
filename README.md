@@ -1,16 +1,20 @@
 # climate-phenology-journal
 
 Climate & Phenology Journal
+
 A collaborative, long‑term climate and phenology record for any region.
 
 Purpose
+
   The Climate & Phenology Journal is a simple, durable, cross‑platform app that allows people to record weather, snowpack, phenology, and seasonal observations. Over decades, this becomes a long‑term climate memory that supports research, agriculture, emergency services, wildfire awareness, education, and community science.
   
   The system is designed for any region — from northern climates to places like US, California, Australia, Canada, or anywhere seasonal change matters.
   
   These are all human-observable weather and phenology variables that can be reported and then processed by language-based AI, rather than numerical sensor data.
 
+
 Core Features
+
   Fast, simple observation entry
   Offline‑first design (critical for rural and remote areas)
   Cloud‑based long‑term archive
@@ -21,6 +25,7 @@ Core Features
 Observation Types
 
 Weather
+  
   Wind direction (8‑point compass)
   Wind force (Beaufort scale)
   Cloud cover (0–8 octas)
@@ -33,6 +38,7 @@ Weather
   Weak layers
 
 Seasonal Markers
+ 
   Percent snow cover
   First frost
   Last frost
@@ -40,12 +46,14 @@ Seasonal Markers
   First snowfall
 
 Phenology
+
   Grass stages
   Tree stages (deciduous + coniferous)
   Wildflower first bloom dates
   Region‑specific species or indicators
 
 Field Notes
+ 
   Free‑text observations
 
 Wildlife, insects, soil, smells, sounds
@@ -59,8 +67,7 @@ A simple, three‑layer system:
   1. App Layer (UI)
     Cross‑platform (Flutter or React Native)
     Forms, maps, charts
-
-Local history view
+    Local history view
 
   2. Local Storage (SQLite)
     Offline capability
@@ -76,6 +83,7 @@ Local history view
 Each observation includes:
 
 Metadata
+
   entry_id
   user_id
   timestamp
@@ -84,6 +92,7 @@ Metadata
   location_name (optional)
 
 Weather
+
   wind_direction
   wind_force_beaufort
   cloud_octas
@@ -94,12 +103,14 @@ Weather
 
 
 Snowpack
+
   snow_surface_condition
   snowpack_crust_layers
   snowpack_weak_layers
   snowpack_notes
 
 Seasonal Markers
+
   percent_snow_cover
   first_frost_date
   last_frost_date
@@ -107,6 +118,7 @@ Seasonal Markers
   first_snowfall_date
 
 Phenology
+
   grass_stage
   deciduous_stage
   coniferous_stage
@@ -118,6 +130,7 @@ notes
 
 Why This Matters
 This project supports:
+
   Wildfire awareness and prevention
   Agricultural planning
   Research and long‑term climate studies
@@ -129,6 +142,7 @@ This project supports:
 A shared tool benefits everyone.
 
 How to Contribute
+
   We welcome contributions from:
   Developers
   Designers
@@ -140,6 +154,7 @@ How to Contribute
   Agencies and NGOs
 
 Ways to get involved:
+
   Open an Issue
   Submit a Pull Request
   Share ideas or feedback
